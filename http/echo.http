@@ -1,0 +1,4 @@
+### GET an echo
+GET http://localhost:8080/echo/debezium
+
+###
