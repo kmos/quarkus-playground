@@ -1,0 +1,5 @@
+name: quarkus-echo
+title: Echo
+version: dev
+nav:
+  - modules/ROOT/nav.adoc

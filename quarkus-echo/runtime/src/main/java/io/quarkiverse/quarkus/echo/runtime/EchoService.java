@@ -1,4 +1,4 @@
-package org.acme.service;
+package io.quarkiverse.quarkus.echo.runtime;
 
 import jakarta.enterprise.context.ApplicationScoped;
 

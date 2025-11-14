@@ -1,11 +1,11 @@
 package org.acme.resources;
 
+import io.quarkiverse.quarkus.echo.runtime.EchoService;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
-import org.acme.service.EchoService;
 
 @Path("/echo")
 public class EchoResource {
